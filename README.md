@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Science Projects Portfolio
 
 You can use the [editor on GitHub](https://github.com/madhukarayachit/madhukarayachit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+<img align="center" src="Images/Diabetes.jpeg" width="300" height="150"/><br>Marketing Campaign</a></h3>
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
