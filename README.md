@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](../Images/Diabetes.jpeg)
+[Link](url) and ![Image](https://github.com/madhukarayachit/madhukarayachit.github.io/tree/main/Images/Diabetes.jpeg)
 <img align="center" src="../Images/Diabetes.jpeg" width="300" height="150"/><br>Marketing Campaign</a></h3>
 ```
 
