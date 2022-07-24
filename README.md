@@ -1,5 +1,10 @@
 ## Data Science Projects Portfolio
 
+## About 
+This is project portflio from my Data Science master program.
+## Contact 
+[Madhukar Ayachit](mayachit@my365.bellevue.edu)
+
 ###  [Real-time Patient Monitoring](https://github.com/madhukarayachit/DSC500)
 The suggested system is expected to work towards health parameter analysis like body temperature, blood pressure, heart rate, sleep analysis etc to predict the lifestyle and chronic illness lead by imbalance of these parameters.
 
