@@ -23,9 +23,17 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/madhukarayachit/madhukarayachit.github.io/tree/main/Images/Diabetes.jpeg)
+
 <img align="center" src="../Images/Diabetes.jpeg" width="300" height="150"/><br>Marketing Campaign</a></h3>
-```
+
+![Book logo](../Images/Diabetes.jpeg)
+```.
+![Book logo](Images/realtime.jpeg)
+![Book logo](Images/SentimentAnalysis.jpeg)
+![Book logo](Images/Diabetes.jpeg)
+![Book logo](Images/customer-segmentation-analysis.png)
+![Book logo](Images/COVID19.webp)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
