@@ -1,46 +1,27 @@
 ## Data Science Projects Portfolio
 
-You can use the [editor on GitHub](https://github.com/madhukarayachit/madhukarayachit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+###  [Real-time Patient Monitoring](https://github.com/madhukarayachit/DSC500)
+The suggested system is expected to work towards health parameter analysis like body temperature, blood pressure, heart rate, sleep analysis etc to predict the lifestyle and chronic illness lead by imbalance of these parameters.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-<img align="center" src="../Images/Diabetes.jpeg" width="300" height="150"/><br>Marketing Campaign</a></h3>
-
-![Book logo](../Images/Diabetes.jpeg)
-```.
 ![Book logo](Images/realtime.jpeg)
+
+### [Sentiment Analysis](https://github.com/madhukarayachit/DSC550) 
+This project is an attempt to perform mining on customer's opinion about a product to have a better understanding of what the customer feels about the product. Project sets basic foundation for business owner to take action to improve your services based on having a better visibility on customer feedback¶ This project presents sentiment analysis of customer reviews to help future business decisions
+
 ![Book logo](Images/SentimentAnalysis.jpeg)
+
+### [Diabetes Prediction Using Machine Learning](https://github.com/madhukarayachit/DSC680) 
+Diabetes Prediction model can help us understand the trend of patients and their treatment over time. This analysis can help the hospitals understand the trends in data develop strategies to proactively identify the patients who need attention in a way that Diabetes can be managed in a better way
+
 ![Book logo](Images/Diabetes.jpeg)
+
+### [Customer Segmentation](https://github.com/madhukarayachit/DSC520) 
+Project targets to present customer segmentation analysis in form of visual representation to marketing team of a shopping mall to help them to plan effective marketing stretegies for prosprective customres.
+
 ![Book logo](Images/customer-segmentation-analysis.png)
+
+### [COVID 19 cases and deaths](https://github.com/madhukarayachit/DSC540) 
+This project emphasis on visualization techniques. I have collected COVID 19 data from 3 different sources, agrregated it, did cleanup and eventually prepared various grpaphics to present data analyais of COVID 19 deaths.
+
 ![Book logo](Images/COVID19.webp)
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madhukarayachit/madhukarayachit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
