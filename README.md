@@ -30,3 +30,7 @@ This project emphasis on visualization techniques. I have collected COVID 19 dat
 
 ![Book logo](Images/COVID19.webp)
 
+### [Housing Data Exploration and Prediction](https://github.com/madhukarayachit/DSC680) 
+This project is an attempt to explore housing market  pattern in a high demand school district of NJ. This also propses a model with a great accuracy score of 99%.
+
+![Book logo](Images/housing.jpeg)
