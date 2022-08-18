@@ -35,7 +35,7 @@ This project is an attempt to explore housing market  pattern in a high demand s
 
 ![Book logo](Images/housing.jpeg)
 
-### [Airbnb Map](https://github.com/madhukarayachit/DSC680/blob/main/AirbnbMap.ipynb) 
+### [Airbnb Map](https://github.com/madhukarayachit/DSC680/blob/main/AirbnbMap.pdf) 
 This project is an attempt to present map visualization for Airbnb data.
 
 ![Book logo](Images/airbnb.jpeg)
