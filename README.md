@@ -34,3 +34,8 @@ This project emphasis on visualization techniques. I have collected COVID 19 dat
 This project is an attempt to explore housing market  pattern in a high demand school district of NJ. This also propses a model with a great accuracy score of 99%.
 
 ![Book logo](Images/housing.jpeg)
+
+### [Airbnb Map](https://github.com/madhukarayachit/DSC680/blob/main/AirbnbMap.ipynb) 
+This project is an attempt to present map visualization for Airbnb data.
+
+![Book logo](Images/airbnb.jpeg)
